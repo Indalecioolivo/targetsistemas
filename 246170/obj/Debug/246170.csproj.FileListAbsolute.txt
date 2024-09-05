@@ -1,0 +1,7 @@
+D:\SI\Last Tp\246170\246170\bin\Debug\246170.exe.config
+D:\SI\Last Tp\246170\246170\bin\Debug\246170.exe
+D:\SI\Last Tp\246170\246170\bin\Debug\246170.pdb
+D:\SI\Last Tp\246170\246170\obj\Debug\246170.csproj.AssemblyReference.cache
+D:\SI\Last Tp\246170\246170\obj\Debug\246170.csproj.CoreCompileInputs.cache
+D:\SI\Last Tp\246170\246170\obj\Debug\246170.exe
+D:\SI\Last Tp\246170\246170\obj\Debug\246170.pdb
